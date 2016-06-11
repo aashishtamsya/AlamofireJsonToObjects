@@ -52,6 +52,7 @@ Version 0.36 of cocoapods will make a dynamic framework of all the pods that you
 
 ```
 import AlamofireJsonToObjects
+import EVReflection
 ```
 
 If you want support for older versions than iOS 8.0, then you can also just copy the AlamofireJsonToObjects.swift  to your app. 
